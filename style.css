@@ -42,8 +42,8 @@ body{
 }
 
 .name{
-	font-size: 1.5em;
-	text-transform: uppercase;
+	font-size: 1.3em;
+	text-transform: camelcase;
 }
 
 .username{
@@ -133,4 +133,7 @@ a:last-child{
 .effect.effect-4:hover:before {
 transform: scale(1, 1);
 text-indent: 0;
+}
+.red{
+    font-size: 1em;
 }
